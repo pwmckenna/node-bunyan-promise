@@ -29,4 +29,4 @@ npm install --save-dev grunt-bunyan
 grunt bunyan task1 task2 ...
 ```
 
-![](http://s11.postimg.org/n9mk3vofn/bunyan.png)
+![](http://s7.postimg.org/rp2qjzjmz/Screen_Shot_2013_06_07_at_1_39_38_PM.png)
