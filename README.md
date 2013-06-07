@@ -1,5 +1,9 @@
 # Bunyan-Promise
 
+Bunyan-Promise consumes promises and outputs [bunyan](https://npmjs.org/package/bunyan-socket) logs showing their progress, their resolution or rejection, and makes state dumps showing all promises that have not settled.
+
+
+## How?
 Bunyan-Promise can consume any type of promises, but for the sake of this example we'll use one from [Kriskowal's Q Library](https://github.com/kriskowal/q).
 
 ```js
