@@ -1,6 +1,6 @@
 # Bunyan-Promise
 
-Bunyan can consume any type of promises, but for the sake of example we'll use one from [Kriskowal's Q Library](https://github.com/kriskowal/q).
+Bunyan-Promise can consume any type of promises, but for the sake of example we'll use one from [Kriskowal's Q Library](https://github.com/kriskowal/q).
 
 ```js
 var q = require('q');
