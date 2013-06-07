@@ -16,6 +16,7 @@
     "deferred"
   ],
   "author": "Patrick Williams <pwmckenna@gmail.com>",
+  "license": "BSD",
   "readmeFilename": "README.md",
   "homepage": "https://npmjs.org/package/bunyan-promise",
   "bugs": "https://github.com/pwmckenna/bunyan-promise/issues",
