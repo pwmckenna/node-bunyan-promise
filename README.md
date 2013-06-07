@@ -1,6 +1,6 @@
 # Bunyan-Promise
 
-Bunyan-Promise consumes promises and outputs [bunyan](https://npmjs.org/package/bunyan-socket) logs showing their progress, their resolution or rejection, and makes state dumps showing all promises that have not settled.
+Bunyan-Promise consumes promises and outputs [bunyan](https://npmjs.org/package/bunyan) logs showing their progress, their resolution or rejection, and makes state dumps showing all promises that have not settled.
 
 
 ## How?
