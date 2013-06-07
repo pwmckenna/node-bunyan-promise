@@ -22,7 +22,7 @@ node app.js | bunyan -o short
 Alternatively you can use the [bunyan grunt task](https://npmjs.org/package/grunt-bunyan) if you're using grunt
 ```bs
 npm install --save-dev grunt-bunyan
-grunt bunyan test
+grunt bunyan task1 task2 ...
 ```
 
 ![](http://s11.postimg.org/n9mk3vofn/bunyan.png)
