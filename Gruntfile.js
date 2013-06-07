@@ -21,6 +21,11 @@ module.exports = function (grunt) {
             options: {
                 reporter: 'spec'
             }
+        },
+        bunyan: {
+            strict: false,
+            level: 'trace',
+            output: 'short'
         }
     });
     grunt.registerTask('test', ['jshint', 'mochaTest']);

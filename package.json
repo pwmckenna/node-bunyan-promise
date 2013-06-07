@@ -27,15 +27,16 @@
     "grunt-contrib-jshint": "~0.1.1",
     "grunt-mocha-test": "~0.2.2",
     "matchdep": "~0.1.2",
-    "mocha": "~1.8.1"
+    "mocha": "~1.8.1",
+    "grunt-bunyan": "~0.3.0"
   },
   "dependencies": {
     "lodash": "~1.1.1",
     "assert": "~0.4.9",
-    "q": "~0.9.2",
     "colors": "~0.6.0-1",
     "moment": "~2.0.0",
-    "bunyan": "~0.21.3"
+    "bunyan": "~0.21.3",
+    "q": "~0.9.4"
   },
   "main": "./lib/bunyan-promise"
 }
