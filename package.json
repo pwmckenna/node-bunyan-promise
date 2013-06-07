@@ -1,6 +1,6 @@
 {
   "name": "bunyan-promise",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Bunyan formatted tracking of outstanding promises, progress, errors, and resolution times.",
   "repository": {
     "type": "git",
