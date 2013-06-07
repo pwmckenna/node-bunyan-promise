@@ -9,8 +9,12 @@ var logger = new BunyanPromiseLogger({
   name: 'test-logger'
 });
 var defer = q.defer();
-defer.resolve();
 logger.trace(defer.promise, 'arbitrary promise name for logging');
+
+// sometime in the future resolve that promise
+setTimeout(function () {
+  defer.resolve();
+}, 10000);
 ```
 
 ## Example output
